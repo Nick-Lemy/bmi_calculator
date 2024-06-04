@@ -1,4 +1,4 @@
-#Sat Jun 01 12:17:16 CAT 2024
+#Tue Jun 04 07:35:49 CAT 2024
 base.0=/home/zkaynl7/StudioProjects/bmi_calculator/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/zkaynl7/StudioProjects/bmi_calculator/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/zkaynl7/StudioProjects/bmi_calculator/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
